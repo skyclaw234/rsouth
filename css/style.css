@@ -1257,7 +1257,7 @@ Back To Top Section
   background-color: #eb2d2d;
   color: #000000; }
   .btn-primary:hover {
-    background-color: #e9ab00;
+    background-color: #eb4848;
     color: #000000; }
 
 .btn-secondary {
@@ -1270,7 +1270,7 @@ Back To Top Section
   background-color: #eb2d2d;
   border-color: #eb2d2d; }
   .btn-primary.disabled:hover {
-    background-color: #e9ab00;
+    background-color: #eb4848;
     color: #000000; }
 
 .btn-secondary.disabled {
@@ -1521,7 +1521,7 @@ Back To Top Section
       width: 30px;
       display: block;
       margin: 7% 0;
-      background: #e6af2a; }
+      background: #f09e9e; }
   .box-icon-5 .text {
     color: #626262; }
   .box-icon-5:hover .icon {
@@ -1802,7 +1802,7 @@ Back To Top Section
       -webkit-transition: 0.4s all linear;
       transition: 0.4s all linear; }
   .team-2:hover .media {
-    background-color: rgba(255, 195, 29, 0.9); }
+    background-color: #eb2d2d; }
     .team-2:hover .media img {
       opacity: 0.2;
       -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
@@ -1885,7 +1885,7 @@ Back To Top Section
         width: 30px;
         display: block;
         margin: 7% 0;
-        background: #fde428;
+        background: #e06161;
         -webkit-transform-origin: left top;
         -moz-transform-origin: left top;
         -ms-transform-origin: left top;
@@ -2942,6 +2942,7 @@ Back To Top Section
  * -----------------------------------------------------------------------------
  */
 /* 5.1 - HERO */
+
 .banner {
   position: relative;
   padding: 0 0;
@@ -3696,7 +3697,7 @@ dl.hiw {
       width: 40px;
       height: 40px;
       text-align: center;
-      background-color: #102b4d;
+      background-color: #af2a2a;
       -webkit-border-radius: 50px;
       -moz-border-radius: 50px;
       -ms-border-radius: 50px;
@@ -3712,7 +3713,7 @@ dl.hiw {
       list-style: none;
       margin: 14px 0; }
       .footer .footer-item .list li a {
-        color: rgba(255, 195, 29, 0.7); }
+        color: #d38787; }
         .footer .footer-item .list li a:hover {
           color: #eb2d2d; }
   .footer .footer-item .footer-subscribe {
@@ -3793,8 +3794,7 @@ dl.hiw {
   .footer .fcopy {
     padding: 30px 0;
     color: #ffffff;
-    font-size: 14px;
-    border-top: 1px solid #153662; }
+    font-size: 14px;}
 
 .list-info {
   margin: 0;
