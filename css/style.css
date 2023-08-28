@@ -663,6 +663,7 @@ i, cite, em, var, address, dfn {
     margin-bottom: -125px; }
     .section.overlap-bottom > .container {
       background: url("../images/cobblestonesvg2.png") repeat;
+      background-attachment: fixed;
       background-color: #eb2d2d;
       padding-top: 20px;
       padding-bottom: 0; }
@@ -3446,6 +3447,7 @@ dl.hiw {
 /* 6.6 Section - Features */
 .section.feature {
   background: url("../images/cobblestonesvg2.png") repeat;
+  background-attachment: fixed;
   background-color: #eb2d2d; }
 
 .overlap {
