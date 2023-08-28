@@ -2161,6 +2161,10 @@ Back To Top Section
   color: #353535; }
 
 /* 2.11. BOX HISTORY */
+.section.project.bg-dark .item img{ 
+  width: 600px;
+  height: 400px;
+}
 .box-history .item {
   padding-bottom: 40px; }
   .box-history .item:before {
