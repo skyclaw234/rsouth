@@ -662,6 +662,7 @@ i, cite, em, var, address, dfn {
     z-index: 100;
     margin-bottom: -125px; }
     .section.overlap-bottom > .container {
+      background: url("../images/cobblestonesvg2.png") repeat;
       background-color: #eb2d2d;
       padding-top: 20px;
       padding-bottom: 0; }
@@ -3066,6 +3067,10 @@ Back To Top Section
   background-color: rgba(34, 34, 34, 0.5); }
 
 /* 6.1 - About */
+.background-hv{
+  position: absolute;
+  opacity: .4;
+}
 .banner-page.about {
   background: url("../images/1920x1300.jpg") bottom center no-repeat;
   background-attachment: fixed;
@@ -3440,6 +3445,7 @@ dl.hiw {
 
 /* 6.6 Section - Features */
 .section.feature {
+  background: url("../images/cobblestonesvg2.png") repeat;
   background-color: #eb2d2d; }
 
 .overlap {
