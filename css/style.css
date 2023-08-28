@@ -2161,6 +2161,10 @@ Back To Top Section
   color: #353535; }
 
 /* 2.11. BOX HISTORY */
+.section.project.bg-dark .item img{ 
+  width: 600px;
+  height: 400px;
+}
 .box-history .item {
   padding-bottom: 40px; }
   .box-history .item:before {
@@ -3445,7 +3449,6 @@ dl.hiw {
 /* 6.6 Section - Features */
 .section.feature {
   background: url("../images/cobblestonesvg2.png") repeat;
-  background-attachment: fixed;
   background-color: #eb2d2d; }
 
 .overlap {
