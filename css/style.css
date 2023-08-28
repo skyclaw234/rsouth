@@ -3449,7 +3449,6 @@ dl.hiw {
 /* 6.6 Section - Features */
 .section.feature {
   background: url("../images/cobblestonesvg2.png") repeat;
-  background-attachment: fixed;
   background-color: #eb2d2d; }
 
 .overlap {
