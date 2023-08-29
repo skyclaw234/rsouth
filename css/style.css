@@ -3056,7 +3056,8 @@ Back To Top Section
  */
 .banner-page {
   padding: 100px 0;
-  background: url("../images/1920x1300.jpg") bottom center no-repeat;
+  background: url("../images/cobblestonesvg2.png") bottom center no-repeat;
+  background-color: #353535;
   background-attachment: fixed;
   background-size: cover; }
 
