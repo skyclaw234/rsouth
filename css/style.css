@@ -3180,7 +3180,10 @@ dl.hiw {
 /* 6.2 - Services */
 .banner-page.project {
   background: url("../images/1920x1300.jpg") bottom center no-repeat; }
-
+  
+.projects img{
+  height: 500px;
+}
 /*.section.project{
 	background: url('../images/1920x1300.jpg') bottom center no-repeat;
 	background-attachment: fixed;
