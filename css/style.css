@@ -3071,7 +3071,6 @@ Back To Top Section
 
 /* 6.1 - About */
 .cobblestone{
-  border-radius: 10px; 
   background: url(../images/cobblestonesvg2.png) repeat;
    background-color:  #eb2d2d; padding: 5%;
 }
