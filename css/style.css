@@ -3058,7 +3058,6 @@ Back To Top Section
   padding: 100px 0;
   background: url("../images/1920x1300.jpg") bottom center no-repeat;
   background-color: #353535;
-  background-attachment: fixed;
   background-size: cover; }
 
 .banner-page:before {
@@ -3206,7 +3205,6 @@ dl.hiw {
 }*/
 .bg-dark {
   background: url("../images/1920x1300.jpg") bottom center no-repeat;
-  background-attachment: fixed;
   background-size: cover; }
 
 .bg-dark:before {
