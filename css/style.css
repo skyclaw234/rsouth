@@ -2833,7 +2833,7 @@ Back To Top Section
   .navbar-main .navbar-brand img:last-child {
     display: none; }
   .navbar-main.stiky {
-    background-color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);;
     position: fixed;
     top: 0;
     right: 0;
