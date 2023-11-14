@@ -2833,6 +2833,7 @@ Back To Top Section
   .navbar-main .navbar-brand img:last-child {
     display: none; }
   .navbar-main.stiky {
+    color: white;
     background-color: rgba(0, 0, 0, 0.5);
     position: fixed;
     top: 0;
@@ -2864,11 +2865,11 @@ Back To Top Section
     font-size: 12px;
     font-weight: 700; }
   .navbar-main .nav > li > a {
-    color: #222222; }
+    color: #ffffff; }
   .navbar-main .nav > li.active > a,
   .navbar-main .nav > li > a:hover,
   .navbar-main .nav > li > a:focus {
-    color: #ffffff;
+    color: #555555;
     background-color: transparent; }
   .navbar-main .nav .open > a, .navbar-main .nav .open > a:hover, .navbar-main .nav .open > a:focus {
     background-color: transparent;
@@ -2914,7 +2915,7 @@ Back To Top Section
       display: block;
       background-color: #eb2d2d; }
   .header-1 .stiky .navbar-nav {
-    background-color: #ffffff; }
+    background-color: rgba(0, 0, 0, 0); }
     .header-1 .stiky .navbar-nav:after {
       content: none; }
   .header-1 .stiky .nav > li.active > a {
